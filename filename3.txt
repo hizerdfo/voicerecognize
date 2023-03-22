@@ -1,0 +1,17 @@
+result2:
+{   'alternative': [   {   'confidence': 0.8339811,
+                           'transcript': '해 보겠습니다 따라해 보세요 유명희 산자부 통상'},
+                       {'transcript': '해 보겠습니다 따라해보세요 유명희 산자부 통상'},
+                       {'transcript': '해보겠습니다 따라해 보세요 유명희 산자부 통상'},
+                       {'transcript': '해 보겠습니다 따라해 보세요 유명이 산자부 통상'},
+                       {'transcript': '해보겠습니다 따라해보세요 유명희 산자부 통상'}],
+    'final': True}
+result2:
+{   'alternative': [   {   'confidence': 0.8339811,
+                           'transcript': '해 보겠습니다 따라해 보세요 유명희 산자부 통상'},
+                       {'transcript': '해 보겠습니다 따라해보세요 유명희 산자부 통상'},
+                       {'transcript': '해보겠습니다 따라해 보세요 유명희 산자부 통상'},
+                       {'transcript': '해 보겠습니다 따라해 보세요 유명이 산자부 통상'},
+                       {'transcript': '해보겠습니다 따라해보세요 유명희 산자부 통상'}],
+    'final': True}
+해 보겠습니다 따라해 보세요 유명희 산자부 통상

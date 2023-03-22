@@ -1,0 +1,17 @@
+result2:
+{   'alternative': [   {   'confidence': 0.69539589,
+                           'transcript': 'Kim 콕 김주하입니다 저랑 똑같죠 한번 테스트'},
+                       {'transcript': 'jin 코 김주하입니다 저랑 똑같죠 한번 테스트'},
+                       {'transcript': 'aim to 김주하입니다 저랑 똑같죠 한번 테스트'},
+                       {'transcript': 'aim 커 김주하입니다 저랑 똑같죠 한번 테스트'},
+                       {'transcript': 'Kim 코 김주하입니다 저랑 똑같죠 한번 테스트'}],
+    'final': True}
+result2:
+{   'alternative': [   {   'confidence': 0.69539589,
+                           'transcript': 'Kim 콕 김주하입니다 저랑 똑같죠 한번 테스트'},
+                       {'transcript': 'jin 코 김주하입니다 저랑 똑같죠 한번 테스트'},
+                       {'transcript': 'aim to 김주하입니다 저랑 똑같죠 한번 테스트'},
+                       {'transcript': 'aim 커 김주하입니다 저랑 똑같죠 한번 테스트'},
+                       {'transcript': 'Kim 코 김주하입니다 저랑 똑같죠 한번 테스트'}],
+    'final': True}
+Kim 콕 김주하입니다 저랑 똑같죠 한번 테스트

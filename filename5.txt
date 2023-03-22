@@ -1,0 +1,17 @@
+result2:
+{   'alternative': [   {   'confidence': 0.75160432,
+                           'transcript': '류명희 산자부 통상교섭본부장과 나이지리아의'},
+                       {'transcript': '류명희 산자부 통상교섭본부장과 나이지리아의 응고제'},
+                       {'transcript': '유명희 산자부 통상교섭본부장과 나이지리아의'},
+                       {'transcript': '유명희 산자부 통상교섭본부장과 나이지리아의 응고제'},
+                       {'transcript': '류명희 산자부 통상교섭본부장과 나이지리아의 오키'}],
+    'final': True}
+result2:
+{   'alternative': [   {   'confidence': 0.75160408,
+                           'transcript': '류명희 산자부 통상교섭본부장과 나이지리아의'},
+                       {'transcript': '류명희 산자부 통상교섭본부장과 나이지리아의 응고제'},
+                       {'transcript': '유명희 산자부 통상교섭본부장과 나이지리아의'},
+                       {'transcript': '유명희 산자부 통상교섭본부장과 나이지리아의 응고제'},
+                       {'transcript': '류명희 산자부 통상교섭본부장과 나이지리아의 오키'}],
+    'final': True}
+류명희 산자부 통상교섭본부장과 나이지리아의

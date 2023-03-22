@@ -1,0 +1,17 @@
+result2:
+{   'alternative': [   {   'confidence': 0.92365944,
+                           'transcript': '보도록 하겠습니다 나 보기가 역겨워 가실 때에는'},
+                       {'transcript': '오도록 하겠습니다 나 보기가 역겨워 가실 때에는'},
+                       {'transcript': '보도록 하겠습니다 나 보기가 역겨워 가실때에는'},
+                       {'transcript': '보도록 하겠습니다 나보기가 역겨워 가실 때에는'},
+                       {'transcript': '오도록 하겠습니다 나 보기가 역겨워 가실때에는'}],
+    'final': True}
+result2:
+{   'alternative': [   {   'confidence': 0.92365944,
+                           'transcript': '보도록 하겠습니다 나 보기가 역겨워 가실 때에는'},
+                       {'transcript': '오도록 하겠습니다 나 보기가 역겨워 가실 때에는'},
+                       {'transcript': '보도록 하겠습니다 나 보기가 역겨워 가실때에는'},
+                       {'transcript': '보도록 하겠습니다 나보기가 역겨워 가실 때에는'},
+                       {'transcript': '오도록 하겠습니다 나 보기가 역겨워 가실때에는'}],
+    'final': True}
+보도록 하겠습니다 나 보기가 역겨워 가실 때에는

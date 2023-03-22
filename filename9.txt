@@ -1,0 +1,17 @@
+result2:
+{   'alternative': [   {   'confidence': 0.84433568,
+                           'transcript': '지냈어 이거는 제가 훨씬 나은 거 같네요 19도 한번'},
+                       {'transcript': '지냈어 이거는 제가 훨씬 나은 거 같네요 19도 1번'},
+                       {'transcript': '지냈어 이거는 제가 훨씬 나은 거 같네요 19도 한 번'},
+                       {'transcript': '됐어 이거는 제가 훨씬 나은 거 같네요 19도 한번'},
+                       {'transcript': '지냈어 이거는 제가 훨씬 나은 거 같네요 식구도 한번'}],
+    'final': True}
+result2:
+{   'alternative': [   {   'confidence': 0.84433573,
+                           'transcript': '지냈어 이거는 제가 훨씬 나은 거 같네요 19도 한번'},
+                       {'transcript': '지냈어 이거는 제가 훨씬 나은 거 같네요 19도 1번'},
+                       {'transcript': '지냈어 이거는 제가 훨씬 나은 거 같네요 19도 한 번'},
+                       {'transcript': '됐어 이거는 제가 훨씬 나은 거 같네요 19도 한번'},
+                       {'transcript': '지냈어 이거는 제가 훨씬 나은 거 같네요 식구도 한번'}],
+    'final': True}
+지냈어 이거는 제가 훨씬 나은 거 같네요 19도 한번

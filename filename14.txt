@@ -1,0 +1,19 @@
+result2:
+{   'alternative': [   {   'confidence': 0.80059654,
+                           'transcript': '물론 ain 코가 속도면에서는 인간의 저보다 더 빠르게 뉴스를 '
+                                         '전해'},
+                       {'transcript': '물론 aim 거가 속도면에서는 인간의 저보다 더 빠르게 뉴스를 전해'},
+                       {'transcript': '물론 aim 코가 속도면에서는 인간의 저보다 더 빠르게 뉴스를 전해'},
+                       {'transcript': '물론 ain 커가 속도면에서는 인간의 저보다 더 빠르게 뉴스를 전해'},
+                       {'transcript': '물론 aim 커가 속도면에서는 인간의 저보다 더 빠르게 뉴스를 전해'}],
+    'final': True}
+result2:
+{   'alternative': [   {   'confidence': 0.80059659,
+                           'transcript': '물론 ain 코가 속도면에서는 인간의 저보다 더 빠르게 뉴스를 '
+                                         '전해'},
+                       {'transcript': '물론 aim 거가 속도면에서는 인간의 저보다 더 빠르게 뉴스를 전해'},
+                       {'transcript': '물론 aim 코가 속도면에서는 인간의 저보다 더 빠르게 뉴스를 전해'},
+                       {'transcript': '물론 ain 커가 속도면에서는 인간의 저보다 더 빠르게 뉴스를 전해'},
+                       {'transcript': '물론 aim 커가 속도면에서는 인간의 저보다 더 빠르게 뉴스를 전해'}],
+    'final': True}
+물론 ain 코가 속도면에서는 인간의 저보다 더 빠르게 뉴스를 전해

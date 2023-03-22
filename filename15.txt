@@ -1,0 +1,17 @@
+result2:
+{   'alternative': [   {   'confidence': 0.87164575,
+                           'transcript': '인간만의 옹기나 감정까지 씻는 건 앞으로의 과제'},
+                       {'transcript': '인간만의 옹기나 감정까지 쉬는 건 앞으로의 과제'},
+                       {'transcript': '인간만의 옮기나 감정까지 씻는 건 앞으로의 과제'},
+                       {'transcript': '인간만의 옹기나 감정까지 신는 건 앞으로의 과제'},
+                       {'transcript': '인간만의 옮기나 감정까지 쉬는 건 앞으로의 과제'}],
+    'final': True}
+result2:
+{   'alternative': [   {   'confidence': 0.87164575,
+                           'transcript': '인간만의 옹기나 감정까지 씻는 건 앞으로의 과제'},
+                       {'transcript': '인간만의 옹기나 감정까지 쉬는 건 앞으로의 과제'},
+                       {'transcript': '인간만의 옮기나 감정까지 씻는 건 앞으로의 과제'},
+                       {'transcript': '인간만의 옹기나 감정까지 신는 건 앞으로의 과제'},
+                       {'transcript': '인간만의 옮기나 감정까지 쉬는 건 앞으로의 과제'}],
+    'final': True}
+인간만의 옹기나 감정까지 씻는 건 앞으로의 과제

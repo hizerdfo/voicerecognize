@@ -1,0 +1,17 @@
+result2:
+{   'alternative': [   {   'confidence': 0.88046247,
+                           'transcript': '경쟁을 벌이고 있습니다 포함 됐는데도 별로'},
+                       {'transcript': '경쟁을 벌이고 있습니다 됐는데도 별로'},
+                       {'transcript': '경쟁을 벌이고 있습니다 포함 됐는데도'},
+                       {'transcript': '경쟁을 벌이고 있습니다 됐는데도'},
+                       {'transcript': '경쟁을 벌이고 있습니다 포함돼 있는데도 별로'}],
+    'final': True}
+result2:
+{   'alternative': [   {   'confidence': 0.88046247,
+                           'transcript': '경쟁을 벌이고 있습니다 포함 됐는데도 별로'},
+                       {'transcript': '경쟁을 벌이고 있습니다 됐는데도 별로'},
+                       {'transcript': '경쟁을 벌이고 있습니다 포함 됐는데도'},
+                       {'transcript': '경쟁을 벌이고 있습니다 됐는데도'},
+                       {'transcript': '경쟁을 벌이고 있습니다 포함돼 있는데도 별로'}],
+    'final': True}
+경쟁을 벌이고 있습니다 포함 됐는데도 별로

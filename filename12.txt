@@ -1,0 +1,17 @@
+result2:
+{   'alternative': [   {   'confidence': 0.83256644,
+                           'transcript': '말없이 고이 보내드리오리다 발음은 정확하지만'},
+                       {'transcript': '말없이 고이 보내 드리오리다 발음은 정확하지만'},
+                       {'transcript': '말없이 고이 보내 드리오리다 발음은 정확하지'},
+                       {'transcript': '말없이 고이 보내드리오리다 발음은 정확하지'},
+                       {'transcript': '말없이 고이 보내 드리오리다 발음은 정확하지 뭐'}],
+    'final': True}
+result2:
+{   'alternative': [   {   'confidence': 0.83256644,
+                           'transcript': '말없이 고이 보내드리오리다 발음은 정확하지만'},
+                       {'transcript': '말없이 고이 보내 드리오리다 발음은 정확하지만'},
+                       {'transcript': '말없이 고이 보내 드리오리다 발음은 정확하지'},
+                       {'transcript': '말없이 고이 보내드리오리다 발음은 정확하지'},
+                       {'transcript': '말없이 고이 보내 드리오리다 발음은 정확하지 뭐'}],
+    'final': True}
+말없이 고이 보내드리오리다 발음은 정확하지만

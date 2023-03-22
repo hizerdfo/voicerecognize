@@ -1,0 +1,17 @@
+result2:
+{   'alternative': [   {   'confidence': 0.83087128,
+                           'transcript': '보겠습니다 안녕하세요 안녕하세요'},
+                       {'transcript': '해 보겠습니다 안녕하세요 안녕하세요'},
+                       {'transcript': '해보겠습니다 안녕하세요 안녕하세요'},
+                       {'transcript': '보겠습니다 안녕하세요 좋아 씨 안녕하세요'},
+                       {'transcript': '해 보겠습니다 안녕하세요 좋아 씨 안녕하세요'}],
+    'final': True}
+result2:
+{   'alternative': [   {   'confidence': 0.83087128,
+                           'transcript': '보겠습니다 안녕하세요 안녕하세요'},
+                       {'transcript': '해 보겠습니다 안녕하세요 안녕하세요'},
+                       {'transcript': '해보겠습니다 안녕하세요 안녕하세요'},
+                       {'transcript': '보겠습니다 안녕하세요 좋아 씨 안녕하세요'},
+                       {'transcript': '해 보겠습니다 안녕하세요 좋아 씨 안녕하세요'}],
+    'final': True}
+보겠습니다 안녕하세요 안녕하세요
